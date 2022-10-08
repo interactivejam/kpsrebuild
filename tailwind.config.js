@@ -1,17 +1,6 @@
 module.exports = {
   content: ['./src/**/*.{html,js}'],
   theme: {
-    colors: {
-      'blue': '#1fb6ff',
-      'purple': '#7e5bef',
-      'pink': '#ff49db',
-      'orange': '#ff7849',
-      'green': '#13ce66',
-      'yellow': '#ffc82c',
-      'gray-dark': '#273444',
-      'gray': '#8492a6',
-      'gray-light': '#d3dce6',
-    },
     fontFamily: {
       body: ['DM Sans', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
@@ -26,7 +15,10 @@ module.exports = {
       },
       colors: {
         'kpsgreen':'#003f1f',
-      }
+      },
+      backgroundImage: {
+        'hero': "url('https://via.placeholder.com/1500x460?text=images to come')",
+      },
     }
   },
 }

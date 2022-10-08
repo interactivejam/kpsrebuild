@@ -41,7 +41,7 @@ export default {
   ],
   googleFonts: {
     families: {
-      'DM+Sans': true,
+      'DM Sans': true,
     },
     download: true
   },

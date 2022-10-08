@@ -1,17 +1,17 @@
 <!-- Please remove this file from your project -->
 <template>
   <footer
-  class="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white"
+  class="bg-gradient-to-r from-green-800 via-green-600 to-green-500 text-white"
 >
   <div class="mx-auto max-w-screen-xl px-4 pt-32 pb-12 sm:px-6 lg:px-8">
     <div class="mx-auto max-w-3xl text-center">
-      <p class="text-4xl font-extrabold sm:text-6xl">Customise Your Product</p>
-
+      <p class="text-4xl font-extrabold sm:text-6xl uppercase">Join our campaign</p>
+      <p class="text-2xl my-5 font-extrabold">The more community members that support or campaign, the greater the chance of rebuilding our school.</p>
       <a
-        class="mt-8 inline-block rounded-full border border-white/25 px-12 py-3 text-sm font-medium hover:bg-white hover:text-red-500"
+        class="mt-8 inline-block border border-white/25 px-12 py-3 font-medium hover:bg-white hover:text-red-500 uppercase"
         href=""
       >
-        Get Started
+        Sign the peition
       </a>
     </div>
 

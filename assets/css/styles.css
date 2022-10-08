@@ -8,12 +8,14 @@ h1, .h1 {
     font-size: xx-large;
 }
   h2, .h2 {
-    font-size: 1.65rem !important;font-family: "helvetica47regularcondensed" !important;  }
+    font-size: 1.65rem;
+    font-weight: bold;
+  }
   h3, .h3 {
-    font-size: 1.45rem !important;font-family: "helvetica47regularcondensed" !important; }
+    font-size: 1.45rem; }
   h4, .h4 {
-    font-size: 1.25rem !important; }
+    font-size: 1.25rem; }
   h5, .h5 {
-    font-size: 1.15rem !important; }
+    font-size: 1.15rem; }
   h6, .h6 {
-    font-size: 1rem !important; }
+    font-size: 1rem; }
