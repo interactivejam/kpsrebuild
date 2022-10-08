@@ -20,8 +20,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [
-  ],
+  css: ["@/assets/css/styles.css"],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
@@ -34,12 +33,18 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
   ],
-
+  googleFonts: {
+    families: {
+      'DM+Sans': true,
+    },
+    download: true
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }

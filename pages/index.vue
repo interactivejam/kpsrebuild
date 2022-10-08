@@ -49,6 +49,6 @@
 <script>
 export default {
   name: 'home',
-  layout: 'default',
+  layout: 'coming',
 }
 </script>
