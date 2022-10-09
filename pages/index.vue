@@ -15,7 +15,7 @@
             Kogarah Public School needs your help
           </h1>
 
-          <p class="mt-4 max-w-lg sm:text-xl sm:leading-relaxed">
+          <p class="mt-4 max-w-lg sm:leading-relaxed text-white text-2xl">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo
             tenetur fuga ducimus numquam ea!
           </p>
@@ -46,10 +46,11 @@
       </div>  
     </section>  
     <section class="bg-green-900 py-12">
-      <div class="container mx-auto flex">
+      <div class="container mx-auto grid gap-12 grid-cols-2 my-8">
+        
         <div class="text-white grow-1">
           <h1>About the campaign</h1>
-          <p class="text-2xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p class="text-2xl py-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           <a
             class="mt-8 inline-block border border-white/25 px-12 py-3 font-medium hover:bg-white hover:text-red-500 uppercase"
             href="/about"
@@ -57,9 +58,10 @@
             About the campaign
           </a>
         </div> 
-        <div class="text-white grow-1">
-          xxx
-        </div>  
+        <div>
+          <img src="https://via.placeholder.com/800x600/0000FF/808080 ?Text=Digital.com">
+        </div> 
+ 
       </div>
     </section>  
 

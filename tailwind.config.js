@@ -17,7 +17,7 @@ module.exports = {
         'kpsgreen':'#003f1f',
       },
       backgroundImage: {
-        'hero': "url('https://via.placeholder.com/1500x460?text=images to come')",
+        'hero': "url('https://via.placeholder.com/1500x660/333333/555555/?text=images to come')",
       },
     }
   },
